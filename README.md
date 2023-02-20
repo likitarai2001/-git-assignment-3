@@ -22,5 +22,6 @@
 ![commit history](images/Screenshot%20from%202023-02-20%2010-18-35.png)
 - Revert recently commited code by using `git revert <commit_id>`
 ![revert commit](images/Screenshot%20from%202023-02-20%2010-31-56.png)
+- `Summary` section removed from `revert.md` file
 
 
